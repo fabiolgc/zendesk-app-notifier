@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "Recebe e exibe mensagem da API",
+    "short_description": "Permite exivbir mensagens recebeidas via API api/v2/apps/notify.json",
+    "installation_instructions": "Traditional installation",
+    "parameters": {
+      "debug" : { "label": "Depurar", "helpText": "permite o debug no console." },
+      "messageType" : { "label": "Tipo de Mensagem"},
+      "messageTime" : { "label": "Tempo da Mensagem", "helpText": "Quanto tempo a mensagem fica visível" }
+    }
+  }
+}

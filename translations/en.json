@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "Receive Message from API",
+    "short_description": "Allow agent to receive messages from API api/v2/apps/notify.json",
+    "installation_instructions": "Traditional installation",
+    "parameters": {
+      "debug" : { "label": "Debugging", "helpText": "allow debug on console." },
+      "messageType" : { "label": "Message Type"},
+      "messageTime" : { "label": "Message Delay Time", "helpText": "How long the message should remain for the user" }
+    }
+  }
+}
