@@ -10,5 +10,5 @@ Zendesk API neotify.json allow you to send notification to agents.
 
 Please submit bug reports to [Insert Link](). Pull requests are welcome.
 
-### Examples:
-[put your screenshots down here.]
+### Example: (in Portuguese)
+https://github.com/fabiolgc/zendesk-app-notifier/blob/master/recordings/Screen%20Recording%202020-09-28%20at%2008.20%20PM.mp4
